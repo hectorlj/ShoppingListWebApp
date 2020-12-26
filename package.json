@@ -1,0 +1,19 @@
+{
+  "name": "shoppinglistwebapp",
+  "version": "1.0.0",
+  "description": "A shopping list web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectorlj/ShoppingListWebApp.git"
+  },
+  "author": "hectorlopeztrejo9@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hectorlj/ShoppingListWebApp/issues"
+  },
+  "homepage": "https://github.com/hectorlj/ShoppingListWebApp#readme"
+}
